@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997987249490",
+    "project_id": "zabtly",
+    "storage_bucket": "zabtly.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997987249490:android:5a4c1a1c9de8111ea8de8b",
+        "android_client_info": {
+          "package_name": "com.qudra.zabtly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJbRWOUqn_Tko54MbschRZZMx1qkFEDxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
