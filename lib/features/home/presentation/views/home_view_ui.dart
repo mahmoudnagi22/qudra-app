@@ -35,6 +35,7 @@ class HomeViewUiState extends State<HomeViewUi> {
     return  WillPopScope(
         onWillPop: navLogic,
         child: Scaffold(
+
           body: AnimatedSwitcher(
             duration: const Duration(milliseconds: 300),
             transitionBuilder: (child, animation) {

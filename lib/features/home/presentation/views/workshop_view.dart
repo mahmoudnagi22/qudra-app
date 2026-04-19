@@ -9,6 +9,7 @@ class WorkShopView extends StatelessWidget {
   Widget build(BuildContext context) {
     return  Scaffold(
       body: WorkShopViewBody(workShopEntity: workShopEntity,),
+
     );
   }
 }

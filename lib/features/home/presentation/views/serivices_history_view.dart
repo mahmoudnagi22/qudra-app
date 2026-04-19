@@ -21,6 +21,7 @@ class ServiceHistoryView extends StatelessWidget {
             body: ServiceHistoryViewBody(
               sessionsList: sessionsList, 
             ),
+
           );
         },
       ),

@@ -17,6 +17,7 @@ class CarDetailsView extends StatelessWidget {
         body: BlocProviderOfCarViewBody(
           carsInfoEntity: carsInfoEntity,
         ),
+
       ),
     );
   }

@@ -43,6 +43,7 @@ class _HomeViewProvidersState extends State<HomeViewProviders> {
 
       // ignore: deprecated_member_use
       child: const HomeViewUi(),
+
     );
   }
 }
