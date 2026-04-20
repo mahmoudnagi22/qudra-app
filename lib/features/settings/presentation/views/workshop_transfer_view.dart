@@ -33,7 +33,6 @@ class WorkShopTransferView extends StatelessWidget {
         ],
         child: const Scaffold(
           body: BlocConsumerTransferWorkshop(),
-
         ),
       ),
     );

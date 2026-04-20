@@ -8,7 +8,6 @@ class AppTextStyles {
     fontWeight: FontWeight.w500,
     height: 1.0,
   );
-
   static TextStyle text24Regular = TextStyle(
     fontFamily: 'Cairo',
     fontSize: 24.sp,

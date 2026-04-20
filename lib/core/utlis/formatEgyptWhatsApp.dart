@@ -8,6 +8,5 @@ String formatEgyptWhatsApp(String phone) {
   if (!p.startsWith('20')) {
     p = '20$p';
   }
-
   return p;
 }
